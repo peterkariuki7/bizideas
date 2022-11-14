@@ -1,8 +1,8 @@
 # bizideas
 PETER KARIUKI KINYANJUI   SCCJ/01101/2018  </br>
 Link to Onepager  https://github.com/peterkariuki7/bizideas/blob/master/Peter%20kariuki-ONEPAGER%20(1)%20(1)%20(1).docx<br>
-WIREFRAMES<BR>.  <BR>
-![f drawio](https://user-images.githubusercontent.com/40104488/198881948-1050338f-ebaf-49ce-97a9-20fd2239727b.png)<br>
+WIREFRAMES AND DIAGRAMS<BR>.  <BR>
+https://miro.com/app/board/uXjVPbbD6SA=/?share_link_id=108102382139<br>
 Technology used:<br>
 - html<br>
 - css<br>
@@ -13,3 +13,6 @@ Environments: <br>
 - Apache server<br>
 - php 7.2<br>
 - MySQL db
+- Xampp 7.4
+- RAM 12GB
+- HDD 500GB
