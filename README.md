@@ -3,6 +3,9 @@
 ## Onepager
 Link to Onepager  https://github.com/peterkariuki7/bizideas/blob/master/Peter%20kariuki-ONEPAGER%20(1)%20(1)%20(1).docx<br>
 
+## Github Project 
+Link to github project  https://github.com/users/peterkariuki7/projects/2
+
 ## Overview
 
 **1.  Project Background and Description**
