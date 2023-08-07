@@ -60,22 +60,45 @@ This module includes;
 6. RAM 12GB
 7. HDD 500GB
 
-### [Postman documentation](https://documenter.getpostman.com/view/14678284/2s8YzZQzWe)
-
-**4.  System Architecture**
-
-**![](https://lh4.googleusercontent.com/D_73F5r5kSgnxux1nAL7bEyMzYmldCG5YLjLbvPDmnPsufZX0Kfbq-edxlFqIDjfwtn6dj1l3l57U5lRvxuHvPhdtqld4kaQZ65TsXRhlJbM_8SYtnLW6ywZAx9kUGB5-RxhGuqZvDzC6L2bFwESKurQPmzw2QZg1_b4Fpb1jMPoFc_M0XyBRWhYtw)**
-
-
 ## Diagraming
 
-### DFDs
+### Wireframe
+![wireframes](https://github.com/peterkariuki7/bizideas/assets/40104488/bd536dbd-22fe-4bbf-b63b-0691563bc557)
 
+### DFDs
+![Data Flow Diagram of the system](https://github.com/peterkariuki7/bizideas/assets/40104488/644d887d-de31-48ab-9293-3c6e4506f6e7)
+
+
+### Flowcharts
+
+### User Flowchart
+![USER FLOWCHART](https://github.com/peterkariuki7/bizideas/assets/40104488/487635f7-489b-4c79-abed-2728485225fc)
+
+### Supplier Flowchart
+![SUPPLIER FLOWCHART](https://github.com/peterkariuki7/bizideas/assets/40104488/47f72066-4b99-4b99-96b3-10eb9fd52d2f)
+
+### Admin Flowchart
+![ADMIN FLOWCHART](https://github.com/peterkariuki7/bizideas/assets/40104488/a7084973-c918-405b-ae6f-f211751a828b)
 
 ## Figma Designs
-![home page](https://user-images.githubusercontent.com/45181428/206154290-4cd5da50-00a7-4cff-96af-ce404cb3a712.png)
+
+### Home Screen
+![home](https://github.com/peterkariuki7/bizideas/assets/40104488/e70c384a-45f4-4847-aaa1-c9cd25682170)
+### Bizidea Screen
+![biz idea](https://github.com/peterkariuki7/bizideas/assets/40104488/e46ece70-7feb-4085-aae5-90d2f6fd4ca6)
+
+### Registration Form
+![registration form](https://github.com/peterkariuki7/bizideas/assets/40104488/a3ef7da8-010c-48bf-a6a1-ff25db613192)
+
+### login Form Screen
+![login page](https://github.com/peterkariuki7/bizideas/assets/40104488/a330f14b-a4e1-4be9-aaa2-d0d2618aab22)
+
+### Supplier list Screen
+![supplier list](https://github.com/peterkariuki7/bizideas/assets/40104488/888fbb73-953f-493d-839f-4dc593b598c5)
+
+
 
 ## File Operations
-  -The system generates a pdf after each booking is done by a user that pulls the information from the appointments table detailing the appointment details, and supplier details, and from the admin table it pulls the website details such as the logo, contacts and email address.
+  -The system generates a pdf after each booking is done by a user that pulls the information from the appointments table detailing the appointment details, and supplier details, and from the admin table it pulls the website details such as the logo, contacts and email address.</br>
 Access the actual Pdf document- [generated pdf.pdf](https://github.com/peterkariuki7/bizideas/files/10001809/generated.pdf.pdf)
 ![pdf](https://user-images.githubusercontent.com/40104488/201631289-c550a390-f5df-4a42-a7f8-89637924b075.png)
