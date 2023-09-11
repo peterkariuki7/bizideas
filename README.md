@@ -83,6 +83,18 @@ This module includes;
 ### Admin Flowchart
 ![ADMIN FLOWCHART](https://github.com/peterkariuki7/bizideas/assets/40104488/a7084973-c918-405b-ae6f-f211751a828b)
 
+## Use Case Diagrams
+
+### User Use Case Diagrams
+![6](https://github.com/peterkariuki7/bizideas/assets/40104488/5feec353-ab12-4d5d-a9cb-21b5727de4ed)
+
+### Supplier Use Case Diagrams
+![7](https://github.com/peterkariuki7/bizideas/assets/40104488/088b19ac-17c6-4e52-a53a-dda2d2ccb1ba)
+
+### Admin Use Case Diagrams
+![8](https://github.com/peterkariuki7/bizideas/assets/40104488/186a233a-338e-4906-9fc9-cbc741f42559)
+
+
 ## Figma Designs
 
 ### Home Screen
